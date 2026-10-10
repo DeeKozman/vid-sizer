@@ -19,8 +19,8 @@ No install, no account, no cloud. It is one executable that drives ffmpeg.
 
 | | |
 |---|---|
-| **[All-in-one](https://github.com/DeeKozman/vid-sizer/releases/latest/download/VidSizer-windows-all-in-one.zip)** — 270 MB | Everything included. Unzip, run **Vid Sizer.exe**. Nothing else to install. |
-| **[App only](https://github.com/DeeKozman/vid-sizer/releases/latest/download/VidSizer-windows.zip)** — 16 MB | For people who already have ffmpeg on their PATH. |
+| **[All-in-one](https://github.com/DeeKozman/vid-sizer/releases/latest/download/VidSizer-windows-all-in-one.zip)** — 110 MB download | Everything included. Unzip, run **Vid Sizer.exe**. Nothing else to install. |
+| **[App only](https://github.com/DeeKozman/vid-sizer/releases/latest/download/VidSizer-windows.zip)** — 7 MB download | For people who already have ffmpeg on their PATH. |
 
 Unzip anywhere — your Desktop, a tools folder, a USB stick. Nothing is written
 to the registry and there is no uninstaller to run; delete the folder and it is
